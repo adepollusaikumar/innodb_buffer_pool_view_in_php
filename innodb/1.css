@@ -1,0 +1,43 @@
+#rcorners2 {
+  border-radius: 3px;
+  border: 1px solid #73AD21;
+  padding: 5px;
+  width: 200px;
+  height: 15px;
+}
+
+#rcorners1 {
+  border-radius: 3px;
+  background: #73AD21;
+  padding: 5px;
+  width: 200px;
+  height: 15px;
+}
+
+
+#rcorners5{
+  border-radius: 3px;
+  background: #33BBFF;
+  padding: 5px;
+  width: 200px;
+  height: 15px;
+  }
+
+#rcorners6{
+  border-radius: 3px;
+  background: #F9FF33;
+  padding: 5px;
+  width: 200px;
+  height: 15px;
+
+}
+
+#rcorners8 {
+  border-radius: 3px;
+ border: 0.2px solid #73AD21;
+  padding: 5px;
+  width: 0px;
+  /*height: 15px; */
+  font-size:12px;
+}
+
