@@ -72,5 +72,3 @@ provision_server
 install_php
 cp -r /vagrant/innodb /var/www/html
 echo -e "\e[40;38;5;82m ==> php link : http//10.0.5.100/innodb/index.html \e[0m"
-echo -e '\e]8;;http://example.com\aThis is a link\e]8;;\a'
-#echo  -e "\e[40;38;5;82m  Innodb buffer pool view ====> http://10.0.5.100/innodb/index.html  \e[0m""
